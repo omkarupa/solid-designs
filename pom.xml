@@ -49,6 +49,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>solid-designs</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
